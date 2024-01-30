@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladroscadev" alt="vladroscadev" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter Storybook for Romania-Flutter-Meetup](https://github.com/Romania-Flutter-Meetup/storybook)
+- 🔭 I’m currently working on a feature packed Medical Calculator built using Flutter
 
 - 🌱 I’m currently enforcing my **developer skills**
 
